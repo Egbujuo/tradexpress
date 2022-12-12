@@ -1,0 +1,85 @@
+.loginform {
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #eeedee;
+  margin-top: 50px;
+  padding: 10px;
+  height: 600px;
+}
+.loginform h1 {
+  margin-top: 50px;
+}
+.user input {
+  width: 90%;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 30px;
+}
+.pass input {
+  width: 90%;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 30px;
+}
+.remember-pass {
+  width: 100%;
+  max-width: 500px;
+  display: grid;
+  align-items: center;
+  margin: 40px auto;
+  font-weight: bolder;
+}
+.remember-p {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  gap: 2px;
+}
+.remember-p p {
+  margin-top: 10px;
+}
+.forgot p {
+  color: blueviolet;
+}
+.loginform button {
+  width: 90%;
+  max-width: 400px;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 5px;
+  background-color: blueviolet;
+  color: #fff;
+  border: none;
+}
+.user{
+  text-decoration: none;
+}
+.new-user {
+  margin-top: 40px;
+}
+.click {
+  color: blueviolet;
+}
+@media (min-width: 600px) {
+  .remember-pass {
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 40px;
+    align-items: center;
+  }
+  .remember-p p {
+    min-width: 180px;
+  }
+  .forgot p {
+    min-width: 180px;
+  }
+  .remember-p img {
+    margin-left: 40px;
+  }
+}

@@ -1,0 +1,42 @@
+.verifyMall-form{
+    width: 90%;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #FBF8FD;
+    padding: 10px;
+    height: 750px;
+    margin-top: 30px;
+}
+.text1{
+    font-size: 35px;
+    margin-top: 30px;   
+}
+.verifyMall-form h1{
+    font-weight: bolder;
+    margin-top: 30px;
+}
+.verifyMall-form img{
+    margin-top: 30px;
+}
+.text2{
+    width: 90%;
+    max-width: 450px;
+    font-weight:500;
+    margin: 80px auto;
+    text-align: center;
+}
+.verifyMall-form button{
+    width: 50%;
+    max-width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #7C20BF;
+    color:#fff ; 
+}
+.already{
+    margin-top: 40px;
+}
+.already1{
+    text-decoration: none;
+}

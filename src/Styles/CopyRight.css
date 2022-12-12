@@ -1,0 +1,8 @@
+.copyRight{
+    margin: 0 auto;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    gap: 10px;
+}

@@ -1,0 +1,76 @@
+.section4 {
+  width: 90%;
+  margin: 0 auto;
+}
+.section4 .text-content {
+  width: 90%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.vector-cont {
+  display: flex;
+}
+.vector-cont img {
+  margin-right: 10px;
+  border: 1px solid blueviolet;
+  padding: 5px;
+}
+.wrap {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
+.text {
+  text-align: left;
+  width: 90%;
+  max-width: 700px;
+}
+.cat img {
+  width: 90%;
+}
+.section4 .wrap2 {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+.img-rafiki img {
+  width: 100%;
+}
+.img-vector img {
+  border: 1px solid blueviolet;
+  margin-top: 70px;
+  padding: 5px;
+}
+.vector2-cont {
+  display: flex;
+}
+.text-conta {
+  margin-top: 70px;
+  margin-left: 20px;
+}
+.text-conta h1 {
+  text-align: left;
+}
+.text-conta p {
+  text-align: left;
+  max-width: 630px;
+}
+.section4 .wrap3 {
+  display: flex;
+  margin: 40px auto;
+  justify-content: center;
+}
+.bitcoin-img img {
+  width: 90%;
+}
+.text3 {
+  text-align: left;
+  max-width: 700px;
+  margin-top: 80px;
+}
+.vector2-img img {
+  border: 1px solid blueviolet;
+  margin-right: 10px;
+  margin-top: 80px;
+  padding: 5px;
+}

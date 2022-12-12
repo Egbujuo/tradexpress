@@ -1,0 +1,105 @@
+.instantBuyform{
+   width: 90%;
+   max-width: 600px;
+    margin: 0 auto;
+    background-color: #eeedee;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 25px);
+    padding: 20px;
+    margin-top: 50px;
+} 
+.buy-wrap{
+    background: #e4e4e4; 
+    width: 90%;
+    max-width: 400px;
+    border-radius: 24px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 50px;
+    
+}
+.buy{
+    background: #ffffff;
+    border-radius: 24px;
+    border: #ffffff;
+    width: 50%; 
+    padding: 10px; 
+    font-weight: bolder;
+    text-decoration: none;
+}
+.sell{
+    background: inherit;
+    text-decoration: none;
+    border-radius: 21px;
+    border: #ffffff;
+    color: black;
+    width: 50%;
+    padding: 10px;
+    font-weight: bolder;
+}
+.coin{
+    margin-top: 50px;
+}
+.coin p{
+text-align: left;
+margin: 0 auto;
+margin-left: 18%;
+font-weight: bolder;
+
+}
+.coin input{
+     width: 90%; 
+     max-width: 400px; 
+     padding: 10px; 
+     border-radius: 5px;
+    font-weight: bolder;
+    border: none;
+}
+.currency p{
+    text-align: left;
+    margin: 0 auto;
+    margin-left: 18%;
+    font-weight: bolder;   
+}
+.currency input{
+    width: 90%; 
+    max-width: 400px; 
+    padding: 10px; 
+    border-radius: 5px;
+   font-weight: bolder;
+   border: none;
+}
+.currency{
+    margin-top: 50px;
+}
+.amount p{
+    text-align: left;
+    margin: 0 auto;
+    margin-left: 18%;
+    font-weight: bolder; 
+}
+.amount input{
+    width: 90%; 
+    max-width: 400px; 
+    padding: 10px; 
+    border-radius: 5px;
+   font-weight: bolder;
+   border: none;
+}
+.amount{
+    margin-top: 50px;
+}
+.btnn{
+    width: 90%;
+    max-width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 50px auto;
+    border: none;
+    background-color: #7C20BF;
+    color: #fff
+    
+}
+
+
+
+

@@ -1,0 +1,35 @@
+.me-auto {
+  gap: 20px;
+  align-items: center;
+}
+.instant {
+  text-decoration: none;
+  min-width: 200px;
+  color: #fff;
+}
+.learn {
+  text-decoration: none;
+  color: #fff;
+}
+.login {
+  text-decoration: none;
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 10px;
+  min-width: 100px;
+  border-radius: 10px;
+}
+.get-started {
+  text-decoration: none;
+  background-color: #fff;
+  color: blueviolet;
+  padding: 10px;
+  min-width: 200px;
+  border-radius: 10px;
+}
+@media(min-width:950px){
+  .me-auto{
+    margin-left: 180px;
+  }
+}
+

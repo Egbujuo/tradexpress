@@ -1,0 +1,37 @@
+.section1 {
+  background-color: #7c20be;
+  background-image: url(../Image/Group\ 127.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 700px;
+  color: #fff;
+  background-size: 65%;
+}
+.content {
+  width: 90%;
+  max-width: 500px;
+  margin-left: 20px;
+}
+.section1 .content h1 {
+  text-align: left;
+}
+.section1 .content p {
+  text-align: left;
+  max-width: 380px;
+}
+
+.section1 button {
+  width: 90%;
+  max-width: 300px;
+  padding: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  color: #7c20be;
+}
+@media (min-width: 500px) {
+  .icons img {
+    margin-right: 10px;
+  }
+}

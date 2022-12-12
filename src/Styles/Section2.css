@@ -1,0 +1,28 @@
+.section2 {
+  width: 100%;
+  margin: 0 auto;
+  display: grid;
+  background-color: whitesmoke;
+  justify-content: center; 
+  
+}
+.rate-wrap {
+  display: flex;
+  gap: 20px;
+}
+.rate {
+  width: 100%;
+  margin: 20px auto;
+  text-align: left;
+  
+}
+
+@media (min-width: 750px) {
+  .section2 {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    border-bottom: 1px solid grey;
+  }
+  .rate {
+    border-right: 1px solid grey;
+  }
+} 

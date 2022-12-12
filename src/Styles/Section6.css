@@ -1,0 +1,56 @@
+.section6 {
+  background-color: white;
+  width: 100%;
+  margin: 0 auto;
+}
+.cont-wrap {
+  display: grid;
+  gap: 50px;
+}
+.union {
+  width: 90%;
+  max-width: 300px;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 20px;
+}
+.section6 h3 {
+  margin: 30px auto;
+  font-weight: bold;
+}
+.union1-ng {
+  margin-bottom: 50px;
+}
+.union p {
+  max-width: 300px;
+  position: absolute;
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 30px;
+  color: #fff;
+}
+.union-img {
+  width: 100%;
+  margin: 0 auto;
+}
+.quote {
+  max-width: 300px;
+  position: absolute;
+  margin-top: 10px;
+}
+.ireti div {
+  text-align: left;
+  align-items: center;
+}
+.ireti {
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+  max-width: 300px;
+  gap: 20px;
+}
+@media (min-width: 890px) {
+  .cont-wrap {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
